@@ -1,3 +1,5 @@
-# cloud-resume-challenge
+# Cloud Resume Challenge
 
-This is the ReadMe for my first attempt at completing the Cloud Resume Challenge.
+## Projects
+- [FrontEnd](./frontend/README.md)
+This is the ReadMe for my attempt at completing the Cloud Resume Challenge.
