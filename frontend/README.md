@@ -31,4 +31,5 @@ This is the [generated output](./docs/3-july-2026-resume-minimal.html) which I w
 
 ## Styling
 
--In order to pevent unecessary compute/hosting cost, the page will be developed and hosted locally until it us ready for production.
+- In order to pevent unecessary compute/hosting cost, the page will be developed and hosted locally until it us ready for production.
+- The Resume will have a 3D look with a background image. 
