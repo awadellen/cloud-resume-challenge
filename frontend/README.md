@@ -28,3 +28,7 @@ This is the [generated output](./docs/3-july-2026-resume-minimal.html) which I w
 - Because we will be applying mobile styling to our website we'll include the viewport meta tag width=device-width so mobile stlying scales normally.
 - We'll extract our styles into its own stylesheet after we are satisfied with our HTML markup.
 - We'll simplify our HTML markup css selector to be as minimal as possible. 
+
+## Styling
+
+-In order to pevent unecessary compute/hosting cost, the page will be developed and hosted locally until it us ready for production.
